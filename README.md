@@ -97,6 +97,6 @@ This site showcases my background as an aspiring Software Engineer, AI Engineer,
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ankit-portfolio.git
+   git clone https://github.com/Ankit52790/ankit-portfolio.git
    cd ankit-portfolio
 >>>>>>> 506ead9ef0ea07d9af25872bed3f13545a27bf45
